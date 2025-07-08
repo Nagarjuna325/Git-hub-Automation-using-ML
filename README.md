@@ -97,5 +97,5 @@ EdgeDB Docs
 
 👨‍🏫 Instructor
 Atef Bader
-Course: Data Representation & Management
+Course: Software Project Management
 
