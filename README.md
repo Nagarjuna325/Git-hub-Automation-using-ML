@@ -5,23 +5,6 @@
 
 ---
 
-## 📁 Project Structure
-
-BugHub/
-├── Part01/
-│ ├── DRE_QM.ipynb
-│ ├── DRE_QM.html
-│ └── DRE_QM.pdf
-├── Part02/
-│ ├── Assignment_5_Part_2.ipynb
-│ ├── StackOverflow_Tags.ipynb
-│ ├── get_issues_details.py
-│ ├── get_repositories_details.py
-│ └── .ipynb_checkpoints/
-├── Part03/
-│ └── Assignment_5_Part_3 Sp.ipynb
-
----
 
 ## 🧩 Project Overview
 
